@@ -50,5 +50,4 @@ Currently, the MVP includes:
 - **Multi-Agent Governance System**: Mocked agents that synthesize events to produce actionable policy recommendations.
 - **PyTorch ML Scaffolding**: Foundational stubs for `FloodLSTM` and `TrafficGNN` models.
 
-## License
-MIT License
+Built by Ananthapadmanabhan 
